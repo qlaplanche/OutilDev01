@@ -7,4 +7,7 @@
 //glkglfgkgl
 
 
-int main(){ return 0; }
+int main(){
+  printf("Sayonara !! ")
+  return 0;
+}
